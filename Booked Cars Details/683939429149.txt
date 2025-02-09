@@ -1,0 +1,12 @@
+CAR RENTAL MANAGEMENT SYSTEM
+Kaari Hostal
+
+Invoice                   :   683939429149
+Date                      :   2023/11/15
+Customer Name             :   Aditya Kiran Choudhary
+Car Name                  :   Scorpio
+From Date                 :   2023/11/15
+To Date                   :   2023/11/18
+Total Days                :   3
+Price Per Days (in INR)   :   1000
+Total Price (Rs)          :   3000

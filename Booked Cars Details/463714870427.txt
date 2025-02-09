@@ -1,0 +1,12 @@
+CAR RENTAL MANAGEMENT SYSTEM
+Kaari Hostal
+
+Invoice                   :   463714870427
+Date                      :   2024/10/22
+Customer Name             :   Aditya Kiran Choudhary
+Car Name                  :   Aventador
+From Date                 :   2024/10/22
+To Date                   :   2024/10/25
+Total Days                :   3
+Price Per Days (in INR)   :   79999
+Total Price (Rs)          :   239997
